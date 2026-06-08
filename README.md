@@ -1,3 +1,5 @@
+## View Full Notebook
+👉 [Click here to view the full analysis](https://nbviewer.org/github/apoorvaayyagari/Global-Cancer-Analysis/blob/main/Global_Cancer_Analysis.ipynb)
 Global Cancer Patient Analysis
 Overview
 This project explores 50,000 global cancer patient records from Kaggle (2015–2024) using Python. The goal was to understand what factors most strongly influence cancer severity and treatment costs — and whether any of those patterns hold up statistically.
